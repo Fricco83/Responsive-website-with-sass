@@ -1,4 +1,4 @@
-# Responsive-website-with-sass
+**Quite simple, yet nice looking website built with sass.**
 
-#Used sass syntax instead of scss one.
-#Created very basic grid (works for this project fine)
+Used sass syntax instead of scss one.
+Made a very basic grid system
